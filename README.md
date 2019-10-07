@@ -1,8 +1,6 @@
 # MenuContexto
 App Android Didático: Menu de contexto flutuante
 
-App Android Didático: Menu de contexto flutuante.
-
 <table>
 <tr align=center>
 <td><img src="https://github.com/machadowma/MenuContexto/blob/master/screen_capture_1.png" align="left" height="360" width="180" ></td>
